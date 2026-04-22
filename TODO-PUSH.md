@@ -1,0 +1,1 @@
+# Git Push to New Repo Progress\n\n- [ ] 1. Stage conflicted files\n- [ ] 2. Stage untracked/new files\n- [ ] 3. Complete merge commit\n- [ ] 4. Update remote origin\n- [ ] 5. Force push to main\n- [ ] 6. Verify success\n
